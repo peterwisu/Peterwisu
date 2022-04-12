@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Peterwisu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Machine Learing 
+- 👋 Hi, I’m Wish (Peter) Suhartidamrong my GitHub @Peterwisu
+- 👀 I’m interested in Web Development and AI
+- 🌱 I’m currently learning Machine Learing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
