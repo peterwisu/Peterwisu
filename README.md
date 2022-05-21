@@ -3,7 +3,7 @@
 Peterwisu/Peterwisu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">👋 Hi, I’m Wish (Peter) Suhartidamrong my GitHub @Peterwisu</h1>
+<h1 align="center">👋 Hi, I’m Wish (Peter) Suhartidamrong, my GitHub account <a href='https://github.com/Peterwisu'> @Peterwisu<a></h1>
 <h3 align="center">A passionate undergraduate computer science student from University of Surrey, who is currently interested in Machine Learning and others Artificial Intelligence</h3>
 
 - 📫 How to reach me **peterwisu@gmail.com**
