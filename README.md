@@ -9,5 +9,3 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me <div>**peterwisu@gmail.com**</div> <div>**ws00372@surrey.ac.uk.com**</div>
                      
 ![Wish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peterwisu&show_icons=true&theme=onedark)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peterwisu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
